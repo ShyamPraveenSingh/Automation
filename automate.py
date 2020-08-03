@@ -6,7 +6,7 @@ import pyautogui
 
 #pyautogui.position())   #get the position of the mouse
 # pos: chrome - (698,767)
-pyautogui.click(698, 767, interval = 2)
+pyautogui.click(698, 767, interval = 2) #clickig on the chrome tab
 pyautogui.typewrite("facebook.com", interval=0.3)
 pyautogui.typewrite(["enter"])
 
