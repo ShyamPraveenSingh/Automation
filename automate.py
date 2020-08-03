@@ -12,6 +12,7 @@ pyautogui.typewrite(["enter"])
 
 
 #pyautogui.click(1337, 7)
+#
 
 
 
